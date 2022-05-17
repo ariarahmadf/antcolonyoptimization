@@ -1,5 +1,3 @@
 # Ant Colony Optimization 
 
-Nama    : Aria Rahmad Fadillah 
-Nim     : 2070231007 
-Kelas   : A1 - Teknik Informatika 
+A1 - Aria Rahmad Fadillah - 2070231007
